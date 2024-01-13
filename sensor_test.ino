@@ -1,3 +1,5 @@
+// Done on an Arduino Mega R3 Board
+// To use in conjunction with python
 // Define sensor pins
 const int forceSensorPin = A0;
 const int joystickXPin = A1;
